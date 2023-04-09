@@ -6,4 +6,8 @@
   <samp>
     <a href="https://whizzes.io">website</a>
   </samp>
+  |
+  <samp>
+    <a href="https://discord.gg/yde6mcgs2C">discord</a>
+  </samp>
 </p>
