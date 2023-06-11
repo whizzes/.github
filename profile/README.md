@@ -2,12 +2,8 @@
   <p>We are computer whizzes 🧙🏻‍♂️, casting software spells</p>
 </div>
 
-<p align="center">
-  <samp>
-    <a href="https://whizzes.io">website</a>
-  </samp>
-  |
-  <samp>
-    <a href="https://discord.gg/yde6mcgs2C">discord</a>
-  </samp>
-</p>
+<div align="center">
+
+[![Discord](https://img.shields.io/discord/1011702194925490186?color=blue&label=discord&logo=discord)](https://discord.gg/yde6mcgs2C)
+
+</div>
