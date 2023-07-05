@@ -1,5 +1,5 @@
 <div align="center">
-  <p>We are computer whizzes 🧙🏻‍♂️, casting software spells</p>
+  <p>We are computer whizzes 🧙, casting software spells</p>
 </div>
 
 <div align="center">
